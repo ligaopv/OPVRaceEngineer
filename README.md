@@ -14,7 +14,7 @@
 
 O aplicativo é distribuído em formato **Portable** (executável único, sem necessidade de instalação pesada ou dependências extras):
 
-1. Acesse a seção de **[Releases Oficiais](https://github.com/ligaopv/OPVRaceEngineer-/releases/latest)**.
+1. Acesse a seção de **[Releases Oficiais](https://github.com/ligaopv/OPVRaceEngineer/releases/latest)**.
 2. Baixe o arquivo **`OPVRaceEngineer.exe`** (ou o pacote `.zip`).
 3. Coloque o executável na pasta de sua preferência no seu computador.
 4. Execute o **`OPVRaceEngineer.exe`** antes ou durante a abertura do seu simulador.
@@ -48,7 +48,7 @@ O **OPV Race Engineer Pro** é um projeto disponibilizado para a comunidade de p
 
 - 📺 **YouTube:** [@ligaopv](https://www.youtube.com/@ligaopv)
 - 📸 **Instagram:** [@ligaopv](https://www.instagram.com/ligaopv)
-- 🏁 **The SimGrid:** Comunidade Oficial da Liga OPV
+- 🏁 **The SimGrid:** [Comunidade Oficial da Liga OPV](https://www.thesimgrid.com/communities/liga-opv-oficina-piloto-virtual)
 - 🌐 **Portal Oficial:** [ligaopv.com.br](https://ligaopv.com.br/)
 - ✉️ **Suporte / Dúvidas:** contato@ligaopv.com.br
 
