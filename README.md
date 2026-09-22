@@ -1,8 +1,8 @@
-# 🏎️ OPV Race Engineer Pro
+﻿# 🏎️ OPV Race Engineer
 
-![OPV Race Engineer Pro Banner](app_cover.png)
+![OPV Race Engineer Banner](app_cover.png)
 
-**OPV Race Engineer Pro** é o aplicativo oficial da **Liga OPV** para engenharia de pista, telemetria em tempo real e cálculo inteligente de estratégia para pilotos virtuais nos principais simuladores do automobilismo:
+**OPV Race Engineer** é o aplicativo oficial da **Liga OPV** para engenharia de pista, telemetria em tempo real e cálculo inteligente de estratégia para pilotos virtuais nos principais simuladores do automobilismo:
 
 - 🏁 **Assetto Corsa EVO**
 - 🏁 **Assetto Corsa Competizione (ACC)**
@@ -44,11 +44,11 @@ O aplicativo é distribuído em formato **Portable** (executável único, sem ne
 
 ## 🎁 Modelo Comunitário & Liga OPV
 
-O **OPV Race Engineer Pro** é um projeto disponibilizado para a comunidade de pilotos virtuais:
+O **OPV Race Engineer** é um projeto disponibilizado para a comunidade de pilotos virtuais:
 
 - 📺 **YouTube:** [@ligaopv](https://www.youtube.com/@ligaopv)
 - 📸 **Instagram:** [@ligaopv](https://www.instagram.com/ligaopv)
-- 🏁 **The SimGrid:** [Comunidade Oficial da Liga OPV](https://www.thesimgrid.com/communities/liga-opv-oficina-piloto-virtual)
+- 🏁 **The SimGrid:** [ligaopv](https://www.thesimgrid.com/communities/liga-opv-oficina-piloto-virtual)
 - 🌐 **Portal Oficial:** [ligaopv.com.br](https://ligaopv.com.br/)
 - ✉️ **Suporte / Dúvidas:** contato@ligaopv.com.br
 
