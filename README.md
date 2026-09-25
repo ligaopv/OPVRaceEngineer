@@ -4,27 +4,27 @@
 
 **OPV Race Engineer • EVO Edition** é o aplicativo oficial da **Liga OPV** para engenharia de pista, telemetria em tempo real e cálculo inteligente de estratégia, desenvolvido com **foco 100% exclusivo no Assetto Corsa EVO**.
 
-A ferramenta foi projetada sob medida para a arquitetura de memória compartilhada do novo simulador da Kunos Simulazioni, garantindo leitura instantânea de dados oficiais de pista, cálculo de combustível preciso e calibração de pneus roda a roda com zero impacto no desempenho (FPS).
+A ferramenta foi projetada para leitura instantânea de dados oficiais de pista, cálculo de combustível preciso e calibração de pneus roda a roda, tudo com zero impacto no desempenho ou na taxa de quadros (FPS).
 
 ---
 
 ## 🟢 O Que Está Funcionando no Momento (Exclusivo Assetto Corsa EVO)
 
-- ⚡ **Telemetria Direta (Shared Memory MMF):**
-  - Conexão nativa e contínua com `Local\acevo_pmf_physics` e `Local\acevo_pmf_graphics` com buffer estendido de 4096 bytes.
-  - Sem sobrecarga ou verificações em segundo plano para outros jogos.
+- ⚡ **Detecção e Conexão Automática:**
+  - Identificação instantânea do Assetto Corsa EVO assim que o simulador entra em pista.
+  - Comunicação direta e fluida, sem sobrecarga ou consumo de processamento desnecessário.
 - ⏱️ **Voltas e Tempos Oficiais de Pista:**
-  - **Contagem Oficial de Voltas:** Leitura em tempo real das voltas completadas pelo piloto (`completedLaps`).
-  - **Última Volta:** Leitura em milissegundos da última volta oficial completada (`iLastTime`).
-  - **Melhor Volta:** Registro instantâneo do recorde pessoal na sessão (`iBestTime`).
+  - **Contagem Oficial de Voltas:** Leitura em tempo real das voltas completadas pelo piloto.
+  - **Última Volta:** Registro exato do tempo da última volta completada.
+  - **Melhor Volta:** Registro instantâneo do recorde pessoal na sessão.
 - ⏳ **Relógio e Tempo de Sessão:**
-  - Monitoramento contínuo do tempo restante de sessão (`sessionTimeLeft`) em treinos, classificações e corridas.
+  - Monitoramento contínuo do tempo restante de sessão em treinos, classificações e corridas.
 - ⛽ **Cálculo de Combustível Inteligente:**
   - Consumo médio real por volta (L/v) atualizado dinamicamente.
   - Combustível restante no tanque em tempo real.
   - Estimativa exata de litros necessários para cruzar a linha de chegada com margem de segurança configurável.
 - 🎯 **Delta de Pressão Alvo (PSI) Roda a Roda:**
-  - Monitoramento dinâmico de pressões e temperaturas nos 4 pneus (`FL`, `FR`, `RL`, `RR`).
+  - Monitoramento dinâmico de pressões e temperaturas nos 4 pneus (Dianteira e Traseira).
   - Sugestão automática de ajuste a frio para alcançar o PSI ideal em temperatura de trabalho.
   - Alvos pré-calibrados por classe do AC EVO (Rua, Sport/Cup, Clássicos, Slick/GT e Chuva).
 - 🛑 **Pit Wall & Estratégia de Box:**
@@ -33,7 +33,7 @@ A ferramenta foi projetada sob medida para a arquitetura de memória compartilha
 - 🌍 **Interface Multilíngue (7 Idiomas):**
   - 🇧🇷 Português (Brasil) | 🇵🇹 Português (Portugal) | 🇺🇸 English | 🇪🇸 Español | 🇮🇹 Italiano | 🇩🇪 Deutsch | 🇫🇷 Français.
 - 🪶 **Performance Ultraleve:**
-  - Executável nativo em C# (.NET Framework do Windows), sem processos pesados, preservando os 100% de estabilidade térmica e fluidez da taxa de quadros (FPS) do simulador.
+  - Aplicativo nativo e otimizado para o Windows, sem processos pesados em segundo plano, preservando 100% da fluidez e estabilidade do jogo.
 
 ---
 
